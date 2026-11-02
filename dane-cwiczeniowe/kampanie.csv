@@ -1,0 +1,6 @@
+﻿kampania_id;nazwa;kanal;typ;start;koniec;koszt_reklamy_pln;rabat_proc
+KMP-01;Wiosenne porządki — reklama w wyszukiwarce;sklep internetowy;reklama płatna;2026-04-01;2026-04-30;6800;0
+KMP-02;Strefa promocji marketplace — tydzień marki;marketplace;promocja marketplace;2026-04-06;2026-04-12;3500;15
+KMP-03;Reklama w mediach społecznościowych — nowości ogrodowe;sklep internetowy;reklama płatna;2026-04-10;2026-04-30;5200;0
+KMP-04;Porównywarka cen — stała obecność;porównywarka;reklama płatna;2026-04-01;2026-04-30;4100;0
+KMP-05;Newsletter — rabat dla stałych klientów;sklep internetowy;mailing;2026-04-15;2026-04-19;600;10

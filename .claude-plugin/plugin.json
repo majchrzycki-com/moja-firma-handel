@@ -1,0 +1,19 @@
+{
+  "name": "moja-firma-handel",
+  "version": "0.1.0",
+  "description": "Agent rozliczenia kampanii dla polskiej firmy (handel wielokanałowy). Liczy marżę każdej kampanii po zwrotach, prowizjach, płatnościach, wysyłce i reklamie, zestawia ją z ROAS z panelu reklamowego i wskazuje, co wzmocnić, co ograniczyć i co sprawdzić.",
+  "author": {
+    "name": "Krzysztof Majchrzycki",
+    "url": "https://majchrzycki.com"
+  },
+  "homepage": "https://majchrzycki.com/blog/agent-kampanii-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii",
+  "repository": "https://github.com/majchrzycki-com/moja-firma-handel",
+  "license": "MIT",
+  "keywords": [
+    "msp",
+    "polska",
+    "rozliczenie-kampanii",
+    "agent-skills",
+    "skill-md"
+  ]
+}

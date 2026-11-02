@@ -1,0 +1,1016 @@
+﻿nr_zamowienia;data;kanal;kampania_id;indeks;nazwa;ilosc;wartosc_netto_pln;koszt_towaru_pln;prowizja_kanalu_pln;oplata_platnosci_pln;koszt_wysylki_pln
+Z-00001;2026-04-26;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00002;2026-04-18;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00003;2026-04-07;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00004;2026-04-01;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00005;2026-04-12;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00006;2026-04-10;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00007;2026-04-09;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00008;2026-04-01;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00009;2026-04-07;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00010;2026-04-25;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00011;2026-04-12;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00012;2026-04-05;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00013;2026-04-05;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00014;2026-04-17;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00015;2026-04-29;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00016;2026-04-19;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00017;2026-04-20;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00018;2026-04-20;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00019;2026-04-25;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00020;2026-04-09;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00021;2026-04-10;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00022;2026-04-30;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00023;2026-04-27;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00024;2026-04-06;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00025;2026-04-09;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00026;2026-04-24;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00027;2026-04-18;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00028;2026-04-04;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00029;2026-04-02;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00030;2026-04-12;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00031;2026-04-03;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00032;2026-04-03;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00033;2026-04-12;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00034;2026-04-21;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00035;2026-04-14;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00036;2026-04-17;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00037;2026-04-03;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00038;2026-04-04;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00039;2026-04-07;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00040;2026-04-27;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00041;2026-04-18;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00042;2026-04-04;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00043;2026-04-27;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00044;2026-04-13;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00045;2026-04-22;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00046;2026-04-30;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;3;217.07;90.0;0.0;3.2;14.5
+Z-00047;2026-04-21;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00048;2026-04-02;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00049;2026-04-20;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00050;2026-04-30;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00051;2026-04-19;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00052;2026-04-18;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00053;2026-04-02;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00054;2026-04-27;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00055;2026-04-19;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00056;2026-04-06;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00057;2026-04-14;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00058;2026-04-19;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00059;2026-04-11;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00060;2026-04-14;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00061;2026-04-07;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00062;2026-04-16;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00063;2026-04-28;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00064;2026-04-20;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00065;2026-04-15;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00066;2026-04-12;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00067;2026-04-15;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00068;2026-04-30;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00069;2026-04-10;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00070;2026-04-21;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00071;2026-04-01;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00072;2026-04-24;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;3;217.07;90.0;0.0;3.2;14.5
+Z-00073;2026-04-16;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00074;2026-04-09;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00075;2026-04-22;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00076;2026-04-03;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00077;2026-04-23;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00078;2026-04-15;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00079;2026-04-11;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00080;2026-04-10;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00081;2026-04-06;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00082;2026-04-06;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00083;2026-04-30;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00084;2026-04-17;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;0.0;3.56;14.5
+Z-00085;2026-04-19;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00086;2026-04-07;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00087;2026-04-16;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00088;2026-04-14;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00089;2026-04-11;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00090;2026-04-26;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00091;2026-04-18;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00092;2026-04-20;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00093;2026-04-25;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00094;2026-04-30;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00095;2026-04-12;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00096;2026-04-18;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00097;2026-04-15;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00098;2026-04-08;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00099;2026-04-18;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00100;2026-04-24;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00101;2026-04-04;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00102;2026-04-06;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00103;2026-04-20;sklep internetowy;KMP-01;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00104;2026-04-10;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00105;2026-04-05;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00106;2026-04-02;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00107;2026-04-01;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00108;2026-04-21;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00109;2026-04-17;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00110;2026-04-12;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00111;2026-04-25;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00112;2026-04-18;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00113;2026-04-12;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00114;2026-04-11;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00115;2026-04-23;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00116;2026-04-03;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00117;2026-04-12;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00118;2026-04-07;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00119;2026-04-18;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00120;2026-04-10;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00121;2026-04-29;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00122;2026-04-03;sklep internetowy;KMP-01;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00123;2026-04-13;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00124;2026-04-24;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00125;2026-04-29;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00126;2026-04-30;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00127;2026-04-15;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00128;2026-04-27;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00129;2026-04-30;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;3;217.07;90.0;0.0;3.2;14.5
+Z-00130;2026-04-30;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00131;2026-04-24;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00132;2026-04-21;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00133;2026-04-11;sklep internetowy;KMP-01;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;0.0;2.3;0.0
+Z-00134;2026-04-04;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00135;2026-04-26;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00136;2026-04-02;sklep internetowy;KMP-01;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00137;2026-04-29;sklep internetowy;KMP-01;OGR-WAZ-30;Wąż ogrodowy 30 m;3;217.07;90.0;0.0;3.2;14.5
+Z-00138;2026-04-22;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00139;2026-04-21;sklep internetowy;KMP-01;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00140;2026-04-14;sklep internetowy;KMP-01;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00141;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00142;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00143;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00144;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00145;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00146;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00147;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00148;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00149;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00150;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00151;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00152;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00153;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00154;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00155;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00156;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00157;2026-04-08;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00158;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00159;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00160;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00161;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00162;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00163;2026-04-12;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00164;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00165;2026-04-06;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00166;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00167;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00168;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00169;2026-04-08;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00170;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00171;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00172;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00173;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00174;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00175;2026-04-11;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00176;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00177;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00178;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00179;2026-04-12;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00180;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00181;2026-04-12;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00182;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00183;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00184;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00185;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00186;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00187;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00188;2026-04-06;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00189;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00190;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00191;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00192;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00193;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00194;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00195;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00196;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00197;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00198;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00199;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00200;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00201;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00202;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00203;2026-04-11;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00204;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00205;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00206;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00207;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00208;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00209;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00210;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00211;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00212;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00213;2026-04-08;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00214;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00215;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00216;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00217;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00218;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00219;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00220;2026-04-12;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00221;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00222;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00223;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00224;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00225;2026-04-06;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00226;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00227;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00228;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00229;2026-04-08;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00230;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00231;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00232;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00233;2026-04-12;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00234;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00235;2026-04-12;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00236;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00237;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00238;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00239;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00240;2026-04-06;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00241;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00242;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00243;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00244;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00245;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00246;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00247;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00248;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00249;2026-04-12;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00250;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00251;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00252;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00253;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00254;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00255;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00256;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00257;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00258;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00259;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00260;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00261;2026-04-06;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00262;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00263;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00264;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00265;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00266;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00267;2026-04-06;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00268;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00269;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00270;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00271;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00272;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00273;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00274;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00275;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00276;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00277;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00278;2026-04-06;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00279;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00280;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00281;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00282;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00283;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00284;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00285;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00286;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00287;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00288;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00289;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00290;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00291;2026-04-08;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00292;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00293;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00294;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00295;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00296;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00297;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00298;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00299;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00300;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00301;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00302;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00303;2026-04-06;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00304;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00305;2026-04-11;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00306;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00307;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00308;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00309;2026-04-12;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00310;2026-04-12;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00311;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00312;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00313;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00314;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00315;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00316;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00317;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00318;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00319;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00320;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00321;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00322;2026-04-08;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00323;2026-04-12;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00324;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00325;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00326;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00327;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00328;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00329;2026-04-11;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00330;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00331;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00332;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00333;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00334;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00335;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00336;2026-04-11;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00337;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00338;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00339;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00340;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00341;2026-04-12;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00342;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00343;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00344;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00345;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00346;2026-04-07;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00347;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00348;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00349;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00350;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00351;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00352;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00353;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00354;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00355;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00356;2026-04-09;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00357;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00358;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00359;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00360;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00361;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00362;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00363;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00364;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00365;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00366;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00367;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00368;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00369;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00370;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00371;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00372;2026-04-06;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00373;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00374;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00375;2026-04-11;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00376;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00377;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00378;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00379;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00380;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00381;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00382;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00383;2026-04-06;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00384;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00385;2026-04-08;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00386;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00387;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00388;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00389;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00390;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00391;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00392;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00393;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00394;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00395;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00396;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00397;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;454.02;246.0;61.43;0.0;13.0
+Z-00398;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;3;184.51;90.0;24.96;0.0;13.0
+Z-00399;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00400;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00401;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00402;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00403;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00404;2026-04-11;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00405;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00406;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00407;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00408;2026-04-09;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00409;2026-04-10;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00410;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00411;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00412;2026-04-12;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00413;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00414;2026-04-09;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00415;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00416;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00417;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00418;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00419;2026-04-08;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00420;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00421;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00422;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00423;2026-04-08;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00424;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00425;2026-04-06;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00426;2026-04-06;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00427;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;2;261.22;140.0;35.34;0.0;13.0
+Z-00428;2026-04-07;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00429;2026-04-07;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00430;2026-04-06;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00431;2026-04-12;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00432;2026-04-08;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00433;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00434;2026-04-07;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00435;2026-04-10;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00436;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00437;2026-04-10;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00438;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00439;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;302.68;164.0;40.95;0.0;13.0
+Z-00440;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00441;2026-04-06;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;3;391.83;210.0;53.01;0.0;13.0
+Z-00442;2026-04-06;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00443;2026-04-10;marketplace;KMP-02;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;151.34;82.0;20.48;0.0;13.0
+Z-00444;2026-04-11;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00445;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;2;123.01;60.0;16.64;0.0;13.0
+Z-00446;2026-04-11;marketplace;KMP-02;OGR-GRL-ST;Grill węglowy stołowy;1;130.61;70.0;17.67;0.0;13.0
+Z-00447;2026-04-06;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00448;2026-04-06;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00449;2026-04-09;marketplace;KMP-02;OGR-WAZ-30;Wąż ogrodowy 30 m;1;61.5;30.0;8.32;0.0;13.0
+Z-00450;2026-04-08;marketplace;KMP-02;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;448.5;400.0;60.68;0.0;13.0
+Z-00451;2026-04-23;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00452;2026-04-17;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00453;2026-04-10;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00454;2026-04-28;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00455;2026-04-24;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00456;2026-04-29;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00457;2026-04-29;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;0.0;3.56;14.5
+Z-00458;2026-04-18;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00459;2026-04-11;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;0.0;2.3;0.0
+Z-00460;2026-04-27;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00461;2026-04-18;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00462;2026-04-20;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00463;2026-04-26;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;0.0;3.56;14.5
+Z-00464;2026-04-15;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00465;2026-04-30;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00466;2026-04-11;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;0.0;3.56;14.5
+Z-00467;2026-04-18;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00468;2026-04-15;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00469;2026-04-12;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00470;2026-04-21;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00471;2026-04-13;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00472;2026-04-26;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00473;2026-04-20;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00474;2026-04-26;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00475;2026-04-29;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00476;2026-04-17;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00477;2026-04-20;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00478;2026-04-22;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00479;2026-04-10;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00480;2026-04-15;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00481;2026-04-24;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00482;2026-04-30;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00483;2026-04-28;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00484;2026-04-20;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00485;2026-04-26;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00486;2026-04-10;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00487;2026-04-30;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00488;2026-04-23;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00489;2026-04-26;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00490;2026-04-30;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00491;2026-04-10;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00492;2026-04-28;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00493;2026-04-22;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00494;2026-04-20;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00495;2026-04-30;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00496;2026-04-29;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00497;2026-04-16;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00498;2026-04-14;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00499;2026-04-22;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00500;2026-04-30;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00501;2026-04-13;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00502;2026-04-11;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00503;2026-04-17;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00504;2026-04-13;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00505;2026-04-15;sklep internetowy;KMP-03;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00506;2026-04-12;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00507;2026-04-26;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00508;2026-04-18;sklep internetowy;KMP-03;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00509;2026-04-27;sklep internetowy;KMP-03;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00510;2026-04-28;sklep internetowy;KMP-03;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00511;2026-04-18;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00512;2026-04-28;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00513;2026-04-22;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00514;2026-04-30;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00515;2026-04-16;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00516;2026-04-10;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00517;2026-04-15;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00518;2026-04-17;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00519;2026-04-02;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00520;2026-04-24;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00521;2026-04-13;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00522;2026-04-12;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00523;2026-04-21;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00524;2026-04-11;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00525;2026-04-27;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00526;2026-04-27;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00527;2026-04-09;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00528;2026-04-04;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00529;2026-04-29;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00530;2026-04-18;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00531;2026-04-24;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00532;2026-04-28;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00533;2026-04-11;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00534;2026-04-02;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00535;2026-04-20;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00536;2026-04-06;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00537;2026-04-11;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00538;2026-04-11;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00539;2026-04-05;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00540;2026-04-16;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00541;2026-04-28;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00542;2026-04-18;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00543;2026-04-20;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00544;2026-04-09;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00545;2026-04-13;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00546;2026-04-17;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00547;2026-04-18;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00548;2026-04-14;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00549;2026-04-19;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00550;2026-04-25;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00551;2026-04-19;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00552;2026-04-25;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00553;2026-04-22;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00554;2026-04-07;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00555;2026-04-22;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00556;2026-04-13;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00557;2026-04-11;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00558;2026-04-23;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00559;2026-04-22;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00560;2026-04-08;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00561;2026-04-10;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00562;2026-04-02;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00563;2026-04-08;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00564;2026-04-29;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00565;2026-04-09;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00566;2026-04-18;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00567;2026-04-06;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00568;2026-04-02;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00569;2026-04-15;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00570;2026-04-25;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00571;2026-04-15;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00572;2026-04-08;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00573;2026-04-21;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00574;2026-04-27;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00575;2026-04-04;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00576;2026-04-26;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00577;2026-04-13;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00578;2026-04-24;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00579;2026-04-14;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00580;2026-04-19;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00581;2026-04-09;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00582;2026-04-04;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00583;2026-04-11;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00584;2026-04-22;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00585;2026-04-14;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00586;2026-04-25;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00587;2026-04-26;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00588;2026-04-30;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00589;2026-04-15;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00590;2026-04-08;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00591;2026-04-17;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00592;2026-04-26;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00593;2026-04-25;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00594;2026-04-24;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00595;2026-04-26;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00596;2026-04-19;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00597;2026-04-06;porównywarka;KMP-04;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00598;2026-04-14;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00599;2026-04-07;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00600;2026-04-20;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00601;2026-04-09;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00602;2026-04-28;porównywarka;KMP-04;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00603;2026-04-07;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00604;2026-04-22;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00605;2026-04-19;porównywarka;KMP-04;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00606;2026-04-17;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00607;2026-04-18;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;217.32;93.0;0.0;3.21;14.5
+Z-00608;2026-04-16;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;2;188.78;100.0;0.0;2.79;14.5
+Z-00609;2026-04-15;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;3;283.17;150.0;0.0;4.18;14.5
+Z-00610;2026-04-19;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;2;115.61;44.0;0.0;1.71;0.0
+Z-00611;2026-04-15;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;217.32;93.0;0.0;3.21;14.5
+Z-00612;2026-04-17;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;144.88;62.0;0.0;2.14;0.0
+Z-00613;2026-04-15;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00614;2026-04-16;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00615;2026-04-18;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;217.32;93.0;0.0;3.21;14.5
+Z-00616;2026-04-17;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;1;65.12;30.0;0.0;0.96;0.0
+Z-00617;2026-04-17;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;2;188.78;100.0;0.0;2.79;14.5
+Z-00618;2026-04-19;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;1;46.83;20.0;0.0;0.69;0.0
+Z-00619;2026-04-17;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00620;2026-04-18;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;2;93.66;40.0;0.0;1.38;0.0
+Z-00621;2026-04-18;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00622;2026-04-19;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;2;188.78;100.0;0.0;2.79;14.5
+Z-00623;2026-04-16;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00624;2026-04-19;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;3;283.17;150.0;0.0;4.18;14.5
+Z-00625;2026-04-15;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;2;93.66;40.0;0.0;1.38;0.0
+Z-00626;2026-04-16;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;144.88;62.0;0.0;2.14;0.0
+Z-00627;2026-04-15;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;2;93.66;40.0;0.0;1.38;0.0
+Z-00628;2026-04-19;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;1;94.39;50.0;0.0;1.39;0.0
+Z-00629;2026-04-19;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;1;46.83;20.0;0.0;0.69;0.0
+Z-00630;2026-04-16;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;3;140.49;60.0;0.0;2.07;0.0
+Z-00631;2026-04-15;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;2;188.78;100.0;0.0;2.79;14.5
+Z-00632;2026-04-17;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;1;46.83;20.0;0.0;0.69;0.0
+Z-00633;2026-04-15;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;1;94.39;50.0;0.0;1.39;0.0
+Z-00634;2026-04-17;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;217.32;93.0;0.0;3.21;14.5
+Z-00635;2026-04-18;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00636;2026-04-19;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;3;173.41;66.0;0.0;2.56;14.5
+Z-00637;2026-04-15;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;1;94.39;50.0;0.0;1.39;0.0
+Z-00638;2026-04-18;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;2;115.61;44.0;0.0;1.71;0.0
+Z-00639;2026-04-19;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00640;2026-04-15;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;72.44;31.0;0.0;1.07;0.0
+Z-00641;2026-04-16;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;2;93.66;40.0;0.0;1.38;0.0
+Z-00642;2026-04-16;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;72.44;31.0;0.0;1.07;0.0
+Z-00643;2026-04-17;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00644;2026-04-17;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;144.88;62.0;0.0;2.14;0.0
+Z-00645;2026-04-18;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00646;2026-04-15;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00647;2026-04-16;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;2;188.78;100.0;0.0;2.79;14.5
+Z-00648;2026-04-17;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00649;2026-04-16;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00650;2026-04-17;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00651;2026-04-18;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;3;173.41;66.0;0.0;2.56;14.5
+Z-00652;2026-04-18;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;1;65.12;30.0;0.0;0.96;0.0
+Z-00653;2026-04-17;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;144.88;62.0;0.0;2.14;0.0
+Z-00654;2026-04-15;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;144.88;62.0;0.0;2.14;0.0
+Z-00655;2026-04-18;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00656;2026-04-15;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;1;46.83;20.0;0.0;0.69;0.0
+Z-00657;2026-04-15;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00658;2026-04-19;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00659;2026-04-19;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;1;94.39;50.0;0.0;1.39;0.0
+Z-00660;2026-04-18;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;1;46.83;20.0;0.0;0.69;0.0
+Z-00661;2026-04-15;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;2;130.24;60.0;0.0;1.92;0.0
+Z-00662;2026-04-19;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;2;93.66;40.0;0.0;1.38;0.0
+Z-00663;2026-04-16;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;1;65.12;30.0;0.0;0.96;0.0
+Z-00664;2026-04-18;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;1;46.83;20.0;0.0;0.69;0.0
+Z-00665;2026-04-18;sklep internetowy;KMP-05;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;72.44;31.0;0.0;1.07;0.0
+Z-00666;2026-04-19;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;2;188.78;100.0;0.0;2.79;14.5
+Z-00667;2026-04-19;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;2;115.61;44.0;0.0;1.71;0.0
+Z-00668;2026-04-15;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;1;65.12;30.0;0.0;0.96;0.0
+Z-00669;2026-04-19;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00670;2026-04-15;sklep internetowy;KMP-05;OGR-DON-50;Donica 50 cm;1;57.8;22.0;0.0;0.85;0.0
+Z-00671;2026-04-18;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;1;65.12;30.0;0.0;0.96;0.0
+Z-00672;2026-04-15;sklep internetowy;KMP-05;OGR-NOZ-12;Nożyce do żywopłotu;1;94.39;50.0;0.0;1.39;0.0
+Z-00673;2026-04-15;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;1;65.12;30.0;0.0;0.96;0.0
+Z-00674;2026-04-18;sklep internetowy;KMP-05;OGR-ZRA-01;Zraszacz wahadłowy;2;93.66;40.0;0.0;1.38;0.0
+Z-00675;2026-04-15;sklep internetowy;KMP-05;OGR-WAZ-30;Wąż ogrodowy 30 m;3;195.37;90.0;0.0;2.88;14.5
+Z-00676;2026-04-02;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00677;2026-04-24;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00678;2026-04-11;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00679;2026-04-27;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00680;2026-04-29;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00681;2026-04-15;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00682;2026-04-24;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00683;2026-04-26;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00684;2026-04-11;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00685;2026-04-12;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00686;2026-04-29;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00687;2026-04-29;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;0.0;3.56;14.5
+Z-00688;2026-04-23;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00689;2026-04-21;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00690;2026-04-24;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00691;2026-04-19;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00692;2026-04-19;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00693;2026-04-18;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00694;2026-04-30;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00695;2026-04-28;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00696;2026-04-18;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00697;2026-04-11;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00698;2026-04-19;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00699;2026-04-01;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00700;2026-04-15;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00701;2026-04-23;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00702;2026-04-13;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00703;2026-04-11;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00704;2026-04-20;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00705;2026-04-05;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00706;2026-04-05;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00707;2026-04-16;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00708;2026-04-26;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00709;2026-04-28;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00710;2026-04-07;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00711;2026-04-30;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00712;2026-04-06;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00713;2026-04-18;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00714;2026-04-22;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;0.0;2.3;0.0
+Z-00715;2026-04-12;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00716;2026-04-16;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00717;2026-04-05;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00718;2026-04-25;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00719;2026-04-30;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00720;2026-04-26;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00721;2026-04-18;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;3;217.07;90.0;0.0;3.2;14.5
+Z-00722;2026-04-05;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00723;2026-04-24;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00724;2026-04-09;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00725;2026-04-05;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00726;2026-04-06;sklep internetowy;;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00727;2026-04-18;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00728;2026-04-09;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00729;2026-04-09;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00730;2026-04-10;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00731;2026-04-29;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00732;2026-04-23;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;0.0;7.88;14.5
+Z-00733;2026-04-24;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00734;2026-04-19;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00735;2026-04-30;sklep internetowy;;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00736;2026-04-05;sklep internetowy;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00737;2026-04-28;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00738;2026-04-07;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00739;2026-04-14;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00740;2026-04-20;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00741;2026-04-26;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00742;2026-04-12;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00743;2026-04-19;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;0.0;2.3;0.0
+Z-00744;2026-04-01;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00745;2026-04-03;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00746;2026-04-11;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;0.0;2.3;0.0
+Z-00747;2026-04-13;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00748;2026-04-21;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00749;2026-04-24;sklep internetowy;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00750;2026-04-17;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00751;2026-04-10;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00752;2026-04-10;sklep internetowy;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00753;2026-04-19;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00754;2026-04-13;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00755;2026-04-12;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00756;2026-04-16;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00757;2026-04-26;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00758;2026-04-21;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00759;2026-04-06;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00760;2026-04-09;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00761;2026-04-27;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00762;2026-04-04;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00763;2026-04-29;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00764;2026-04-21;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00765;2026-04-01;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00766;2026-04-06;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00767;2026-04-15;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;0.0;1.54;0.0
+Z-00768;2026-04-17;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00769;2026-04-18;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;0.0;2.3;0.0
+Z-00770;2026-04-03;sklep internetowy;;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00771;2026-04-17;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;0.0;3.1;14.5
+Z-00772;2026-04-09;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00773;2026-04-23;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;3;217.07;90.0;0.0;3.2;14.5
+Z-00774;2026-04-11;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00775;2026-04-20;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00776;2026-04-14;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00777;2026-04-09;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00778;2026-04-12;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00779;2026-04-07;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00780;2026-04-01;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00781;2026-04-11;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00782;2026-04-02;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00783;2026-04-06;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00784;2026-04-10;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00785;2026-04-25;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00786;2026-04-18;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00787;2026-04-08;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00788;2026-04-19;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00789;2026-04-10;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;0.0;2.3;0.0
+Z-00790;2026-04-29;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00791;2026-04-10;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00792;2026-04-12;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00793;2026-04-19;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00794;2026-04-28;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00795;2026-04-19;sklep internetowy;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00796;2026-04-29;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00797;2026-04-18;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00798;2026-04-29;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00799;2026-04-05;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00800;2026-04-01;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00801;2026-04-25;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00802;2026-04-18;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;0.0;3.56;14.5
+Z-00803;2026-04-03;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;0.0;1.55;0.0
+Z-00804;2026-04-25;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00805;2026-04-25;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00806;2026-04-14;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00807;2026-04-10;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00808;2026-04-02;sklep internetowy;;OGR-DON-50;Donica 50 cm;3;192.68;66.0;0.0;2.84;14.5
+Z-00809;2026-04-28;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;2;307.32;140.0;0.0;4.54;14.5
+Z-00810;2026-04-01;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00811;2026-04-26;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00812;2026-04-10;sklep internetowy;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;0.0;1.9;0.0
+Z-00813;2026-04-11;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00814;2026-04-04;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;0.0;2.38;0.0
+Z-00815;2026-04-22;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00816;2026-04-20;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00817;2026-04-08;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;0.0;1.19;0.0
+Z-00818;2026-04-05;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;0.0;6.8;14.5
+Z-00819;2026-04-19;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00820;2026-04-02;sklep internetowy;;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;0.0;4.64;14.5
+Z-00821;2026-04-30;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;0.0;1.07;0.0
+Z-00822;2026-04-23;sklep internetowy;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;0.0;3.56;14.5
+Z-00823;2026-04-25;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00824;2026-04-26;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;0.0;2.63;14.5
+Z-00825;2026-04-27;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00826;2026-04-23;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00827;2026-04-07;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00828;2026-04-26;sklep internetowy;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;0.0;0.95;0.0
+Z-00829;2026-04-25;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00830;2026-04-29;sklep internetowy;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;0.0;2.14;0.0
+Z-00831;2026-04-26;sklep internetowy;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;0.0;0.77;0.0
+Z-00832;2026-04-21;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00833;2026-04-21;sklep internetowy;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;0.0;2.27;0.0
+Z-00834;2026-04-18;sklep internetowy;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;0.0;7.79;14.5
+Z-00835;2026-04-24;sklep internetowy;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;0.0;5.26;14.5
+Z-00836;2026-04-14;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00837;2026-04-01;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00838;2026-04-19;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00839;2026-04-09;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00840;2026-04-11;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;28.38;0.0;13.0
+Z-00841;2026-04-17;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00842;2026-04-18;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00843;2026-04-15;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;19.58;0.0;13.0
+Z-00844;2026-04-16;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;32.67;0.0;13.0
+Z-00845;2026-04-16;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-00846;2026-04-10;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00847;2026-04-10;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00848;2026-04-05;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00849;2026-04-12;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;19.58;0.0;13.0
+Z-00850;2026-04-26;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00851;2026-04-30;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00852;2026-04-18;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00853;2026-04-18;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00854;2026-04-30;marketplace;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;17.38;0.0;13.0
+Z-00855;2026-04-22;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00856;2026-04-12;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00857;2026-04-06;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00858;2026-04-30;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-00859;2026-04-12;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00860;2026-04-27;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00861;2026-04-23;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00862;2026-04-25;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00863;2026-04-22;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00864;2026-04-28;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00865;2026-04-15;marketplace;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;17.38;0.0;13.0
+Z-00866;2026-04-30;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00867;2026-04-17;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;9.79;0.0;13.0
+Z-00868;2026-04-13;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;19.58;0.0;13.0
+Z-00869;2026-04-20;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00870;2026-04-19;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00871;2026-04-14;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;28.38;0.0;13.0
+Z-00872;2026-04-10;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;28.38;0.0;13.0
+Z-00873;2026-04-25;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00874;2026-04-02;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00875;2026-04-12;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-00876;2026-04-30;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;72.27;0.0;13.0
+Z-00877;2026-04-22;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00878;2026-04-03;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00879;2026-04-01;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-00880;2026-04-26;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00881;2026-04-09;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00882;2026-04-15;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00883;2026-04-07;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00884;2026-04-18;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;9.79;0.0;13.0
+Z-00885;2026-04-10;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00886;2026-04-27;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00887;2026-04-08;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-00888;2026-04-24;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;9.79;0.0;13.0
+Z-00889;2026-04-18;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00890;2026-04-01;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-00891;2026-04-15;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00892;2026-04-17;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00893;2026-04-22;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00894;2026-04-19;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00895;2026-04-29;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00896;2026-04-15;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00897;2026-04-06;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00898;2026-04-18;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00899;2026-04-23;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00900;2026-04-28;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00901;2026-04-04;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00902;2026-04-19;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00903;2026-04-05;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;62.37;0.0;13.0
+Z-00904;2026-04-23;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00905;2026-04-10;marketplace;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;17.38;0.0;13.0
+Z-00906;2026-04-25;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;21.12;0.0;13.0
+Z-00907;2026-04-20;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;28.38;0.0;13.0
+Z-00908;2026-04-08;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00909;2026-04-22;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00910;2026-04-23;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00911;2026-04-01;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;28.38;0.0;13.0
+Z-00912;2026-04-02;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00913;2026-04-22;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00914;2026-04-28;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;19.58;0.0;13.0
+Z-00915;2026-04-16;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00916;2026-04-04;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;9.79;0.0;13.0
+Z-00917;2026-04-17;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00918;2026-04-28;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;19.58;0.0;13.0
+Z-00919;2026-04-16;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00920;2026-04-11;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;72.27;0.0;13.0
+Z-00921;2026-04-27;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;32.67;0.0;13.0
+Z-00922;2026-04-29;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;19.58;0.0;13.0
+Z-00923;2026-04-27;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00924;2026-04-18;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00925;2026-04-13;marketplace;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;17.38;0.0;13.0
+Z-00926;2026-04-02;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-00927;2026-04-06;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00928;2026-04-14;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00929;2026-04-30;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00930;2026-04-07;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00931;2026-04-15;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00932;2026-04-27;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00933;2026-04-30;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00934;2026-04-04;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00935;2026-04-21;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;28.38;0.0;13.0
+Z-00936;2026-04-12;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;3;534.15;246.0;72.27;0.0;13.0
+Z-00937;2026-04-03;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;28.38;0.0;13.0
+Z-00938;2026-04-21;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;9.79;0.0;13.0
+Z-00939;2026-04-18;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;21.12;0.0;13.0
+Z-00940;2026-04-04;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00941;2026-04-20;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;32.67;0.0;13.0
+Z-00942;2026-04-29;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;42.57;0.0;13.0
+Z-00943;2026-04-18;marketplace;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;17.38;0.0;13.0
+Z-00944;2026-04-01;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00945;2026-04-22;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00946;2026-04-19;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-00947;2026-04-17;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00948;2026-04-22;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;9.79;0.0;13.0
+Z-00949;2026-04-25;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00950;2026-04-02;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-00951;2026-04-18;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;21.12;0.0;13.0
+Z-00952;2026-04-04;marketplace;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;17.38;0.0;13.0
+Z-00953;2026-04-03;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-00954;2026-04-16;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00955;2026-04-27;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00956;2026-04-30;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;19.58;0.0;13.0
+Z-00957;2026-04-02;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00958;2026-04-02;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-00959;2026-04-12;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00960;2026-04-13;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-00961;2026-04-05;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;42.57;0.0;13.0
+Z-00962;2026-04-11;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;1;72.36;30.0;9.79;0.0;13.0
+Z-00963;2026-04-26;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00964;2026-04-30;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00965;2026-04-21;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00966;2026-04-26;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;3;314.63;150.0;42.57;0.0;13.0
+Z-00967;2026-04-06;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00968;2026-04-10;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00969;2026-04-19;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00970;2026-04-15;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;3;217.07;90.0;29.37;0.0;13.0
+Z-00971;2026-04-27;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-00972;2026-04-25;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00973;2026-04-24;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-00974;2026-04-17;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;2;144.72;60.0;19.58;0.0;13.0
+Z-00975;2026-04-02;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;3;460.98;210.0;62.37;0.0;13.0
+Z-00976;2026-04-20;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00977;2026-04-10;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00978;2026-04-10;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00979;2026-04-24;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00980;2026-04-20;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00981;2026-04-05;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;2;104.07;40.0;14.08;0.0;13.0
+Z-00982;2026-04-08;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00983;2026-04-08;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-00984;2026-04-14;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-00985;2026-04-13;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;3;156.1;60.0;21.12;0.0;13.0
+Z-00986;2026-04-16;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00987;2026-04-23;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00988;2026-04-15;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00989;2026-04-10;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-00990;2026-04-21;marketplace;;OGR-GRL-ST;Grill węglowy stołowy;1;153.66;70.0;20.79;0.0;13.0
+Z-00991;2026-04-27;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-00992;2026-04-03;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00993;2026-04-29;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-00994;2026-04-12;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;3;241.46;93.0;32.67;0.0;13.0
+Z-00995;2026-04-07;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00996;2026-04-04;marketplace;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;17.38;0.0;13.0
+Z-00997;2026-04-12;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-00998;2026-04-11;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;2;356.1;164.0;48.18;0.0;13.0
+Z-00999;2026-04-26;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-01000;2026-04-05;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;2;209.76;100.0;28.38;0.0;13.0
+Z-01001;2026-04-17;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-01002;2026-04-21;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-01003;2026-04-10;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-01004;2026-04-04;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-01005;2026-04-29;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-01006;2026-04-16;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0
+Z-01007;2026-04-03;marketplace;;OGR-KOS-40;Kosiarka elektryczna 40 cm;1;527.64;400.0;71.39;0.0;13.0
+Z-01008;2026-04-22;marketplace;;OGR-DON-50;Donica 50 cm;2;128.46;44.0;17.38;0.0;13.0
+Z-01009;2026-04-17;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;1;80.49;31.0;10.89;0.0;13.0
+Z-01010;2026-04-30;marketplace;;OGR-ZRA-01;Zraszacz wahadłowy;1;52.03;20.0;7.04;0.0;13.0
+Z-01011;2026-04-11;marketplace;;OGR-DON-50;Donica 50 cm;1;64.23;22.0;8.69;0.0;13.0
+Z-01012;2026-04-12;marketplace;;OGR-NOZ-12;Nożyce do żywopłotu;1;104.88;50.0;14.19;0.0;13.0
+Z-01013;2026-04-23;marketplace;;OGR-SKR-80;Skrzynia ogrodowa 80 l;1;178.05;82.0;24.09;0.0;13.0
+Z-01014;2026-04-06;marketplace;;OGR-WAZ-30;Wąż ogrodowy 30 m;3;217.07;90.0;29.37;0.0;13.0
+Z-01015;2026-04-20;marketplace;;OGR-OSW-SL;Lampa solarna — zestaw 6 szt.;2;160.98;62.0;21.78;0.0;13.0

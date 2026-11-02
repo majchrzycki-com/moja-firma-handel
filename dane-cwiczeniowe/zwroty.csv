@@ -1,0 +1,89 @@
+﻿nr_zamowienia;data_zwrotu;kanal;indeks;wartosc_zwrotu_netto_pln;koszt_towaru_wraca_pln;koszt_obslugi_zwrotu_pln;powod
+Z-00030;2026-05-11;sklep internetowy;OGR-OSW-SL;80.49;31.0;18.0;uszkodzenie w transporcie
+Z-00031;2026-05-08;sklep internetowy;OGR-WAZ-30;72.36;30.0;18.0;uszkodzenie w transporcie
+Z-00074;2026-05-20;sklep internetowy;OGR-GRL-ST;460.98;210.0;18.0;pomyłka w zamówieniu
+Z-00075;2026-05-03;sklep internetowy;OGR-WAZ-30;72.36;30.0;18.0;nie spełnia oczekiwań
+Z-00151;2026-05-14;marketplace;OGR-KOS-40;448.5;400.0;18.0;nie spełnia oczekiwań
+Z-00171;2026-05-04;marketplace;OGR-WAZ-30;61.5;30.0;18.0;uszkodzenie w transporcie
+Z-00175;2026-05-04;marketplace;OGR-WAZ-30;184.51;90.0;18.0;uszkodzenie w transporcie
+Z-00176;2026-05-09;marketplace;OGR-KOS-40;448.5;400.0;18.0;odstąpienie bez podania przyczyny
+Z-00180;2026-05-18;marketplace;OGR-KOS-40;448.5;400.0;18.0;uszkodzenie w transporcie
+Z-00188;2026-05-20;marketplace;OGR-GRL-ST;130.61;70.0;18.0;uszkodzenie w transporcie
+Z-00189;2026-05-07;marketplace;OGR-SKR-80;454.02;246.0;18.0;nie spełnia oczekiwań
+Z-00209;2026-05-14;marketplace;OGR-KOS-40;448.5;400.0;18.0;nie spełnia oczekiwań
+Z-00210;2026-05-05;marketplace;OGR-WAZ-30;123.01;60.0;18.0;pomyłka w zamówieniu
+Z-00214;2026-05-20;marketplace;OGR-GRL-ST;261.22;140.0;18.0;uszkodzenie w transporcie
+Z-00217;2026-05-04;marketplace;OGR-WAZ-30;61.5;30.0;18.0;nie spełnia oczekiwań
+Z-00224;2026-05-09;marketplace;OGR-GRL-ST;130.61;70.0;18.0;uszkodzenie w transporcie
+Z-00237;2026-05-09;marketplace;OGR-KOS-40;448.5;400.0;18.0;nie spełnia oczekiwań
+Z-00239;2026-05-11;marketplace;OGR-KOS-40;448.5;400.0;18.0;odstąpienie bez podania przyczyny
+Z-00242;2026-05-15;marketplace;OGR-WAZ-30;61.5;30.0;18.0;odstąpienie bez podania przyczyny
+Z-00263;2026-05-07;marketplace;OGR-KOS-40;448.5;400.0;18.0;uszkodzenie w transporcie
+Z-00265;2026-05-06;marketplace;OGR-KOS-40;448.5;400.0;18.0;pomyłka w zamówieniu
+Z-00273;2026-05-07;marketplace;OGR-KOS-40;448.5;400.0;18.0;uszkodzenie w transporcie
+Z-00278;2026-05-05;marketplace;OGR-SKR-80;151.34;82.0;18.0;pomyłka w zamówieniu
+Z-00281;2026-05-05;marketplace;OGR-KOS-40;448.5;400.0;18.0;uszkodzenie w transporcie
+Z-00283;2026-05-09;marketplace;OGR-KOS-40;448.5;400.0;18.0;odstąpienie bez podania przyczyny
+Z-00290;2026-05-01;marketplace;OGR-KOS-40;448.5;400.0;18.0;nie spełnia oczekiwań
+Z-00297;2026-05-01;marketplace;OGR-GRL-ST;130.61;70.0;18.0;nie spełnia oczekiwań
+Z-00301;2026-05-04;marketplace;OGR-KOS-40;448.5;400.0;18.0;nie spełnia oczekiwań
+Z-00304;2026-05-14;marketplace;OGR-KOS-40;448.5;400.0;18.0;pomyłka w zamówieniu
+Z-00308;2026-05-16;marketplace;OGR-KOS-40;448.5;400.0;18.0;pomyłka w zamówieniu
+Z-00316;2026-05-08;marketplace;OGR-KOS-40;448.5;400.0;18.0;odstąpienie bez podania przyczyny
+Z-00332;2026-05-10;marketplace;OGR-KOS-40;448.5;400.0;18.0;uszkodzenie w transporcie
+Z-00335;2026-05-12;marketplace;OGR-SKR-80;302.68;164.0;18.0;uszkodzenie w transporcie
+Z-00337;2026-05-18;marketplace;OGR-KOS-40;448.5;400.0;18.0;nie spełnia oczekiwań
+Z-00342;2026-05-05;marketplace;OGR-WAZ-30;61.5;30.0;18.0;pomyłka w zamówieniu
+Z-00348;2026-05-01;marketplace;OGR-WAZ-30;123.01;60.0;18.0;nie spełnia oczekiwań
+Z-00353;2026-05-07;marketplace;OGR-KOS-40;448.5;400.0;18.0;uszkodzenie w transporcie
+Z-00360;2026-05-15;marketplace;OGR-KOS-40;448.5;400.0;18.0;uszkodzenie w transporcie
+Z-00365;2026-05-08;marketplace;OGR-GRL-ST;391.83;210.0;18.0;odstąpienie bez podania przyczyny
+Z-00370;2026-05-02;marketplace;OGR-SKR-80;151.34;82.0;18.0;odstąpienie bez podania przyczyny
+Z-00386;2026-05-11;marketplace;OGR-WAZ-30;123.01;60.0;18.0;odstąpienie bez podania przyczyny
+Z-00395;2026-05-06;marketplace;OGR-KOS-40;448.5;400.0;18.0;nie spełnia oczekiwań
+Z-00400;2026-05-04;marketplace;OGR-GRL-ST;391.83;210.0;18.0;odstąpienie bez podania przyczyny
+Z-00413;2026-05-10;marketplace;OGR-WAZ-30;61.5;30.0;18.0;odstąpienie bez podania przyczyny
+Z-00420;2026-05-16;marketplace;OGR-KOS-40;448.5;400.0;18.0;uszkodzenie w transporcie
+Z-00423;2026-05-19;marketplace;OGR-SKR-80;302.68;164.0;18.0;uszkodzenie w transporcie
+Z-00424;2026-05-16;marketplace;OGR-GRL-ST;391.83;210.0;18.0;pomyłka w zamówieniu
+Z-00432;2026-05-11;marketplace;OGR-SKR-80;151.34;82.0;18.0;odstąpienie bez podania przyczyny
+Z-00434;2026-05-04;marketplace;OGR-KOS-40;448.5;400.0;18.0;nie spełnia oczekiwań
+Z-00435;2026-05-09;marketplace;OGR-KOS-40;448.5;400.0;18.0;odstąpienie bez podania przyczyny
+Z-00436;2026-05-20;marketplace;OGR-KOS-40;448.5;400.0;18.0;odstąpienie bez podania przyczyny
+Z-00438;2026-05-20;marketplace;OGR-WAZ-30;61.5;30.0;18.0;uszkodzenie w transporcie
+Z-00441;2026-05-06;marketplace;OGR-GRL-ST;391.83;210.0;18.0;nie spełnia oczekiwań
+Z-00442;2026-05-10;marketplace;OGR-GRL-ST;130.61;70.0;18.0;nie spełnia oczekiwań
+Z-00462;2026-05-14;sklep internetowy;OGR-DON-50;64.23;22.0;18.0;odstąpienie bez podania przyczyny
+Z-00475;2026-05-19;sklep internetowy;OGR-DON-50;192.68;66.0;18.0;pomyłka w zamówieniu
+Z-00478;2026-05-15;sklep internetowy;OGR-OSW-SL;80.49;31.0;18.0;nie spełnia oczekiwań
+Z-00510;2026-05-09;sklep internetowy;OGR-ZRA-01;52.03;20.0;18.0;nie spełnia oczekiwań
+Z-00568;2026-05-06;porównywarka;OGR-GRL-ST;460.98;210.0;18.0;nie spełnia oczekiwań
+Z-00579;2026-05-10;porównywarka;OGR-NOZ-12;104.88;50.0;18.0;nie spełnia oczekiwań
+Z-00588;2026-05-17;porównywarka;OGR-NOZ-12;209.76;100.0;18.0;nie spełnia oczekiwań
+Z-00593;2026-05-09;porównywarka;OGR-GRL-ST;307.32;140.0;18.0;uszkodzenie w transporcie
+Z-00602;2026-05-13;porównywarka;OGR-GRL-ST;460.98;210.0;18.0;odstąpienie bez podania przyczyny
+Z-00614;2026-05-16;sklep internetowy;OGR-WAZ-30;130.24;60.0;18.0;odstąpienie bez podania przyczyny
+Z-00616;2026-05-17;sklep internetowy;OGR-WAZ-30;65.12;30.0;18.0;pomyłka w zamówieniu
+Z-00617;2026-05-02;sklep internetowy;OGR-NOZ-12;188.78;100.0;18.0;pomyłka w zamówieniu
+Z-00676;2026-05-12;sklep internetowy;OGR-KOS-40;527.64;400.0;18.0;pomyłka w zamówieniu
+Z-00692;2026-05-19;sklep internetowy;OGR-WAZ-30;72.36;30.0;18.0;uszkodzenie w transporcie
+Z-00695;2026-05-15;sklep internetowy;OGR-GRL-ST;153.66;70.0;18.0;pomyłka w zamówieniu
+Z-00714;2026-05-12;sklep internetowy;OGR-ZRA-01;156.1;60.0;18.0;odstąpienie bez podania przyczyny
+Z-00716;2026-05-05;sklep internetowy;OGR-OSW-SL;80.49;31.0;18.0;pomyłka w zamówieniu
+Z-00730;2026-05-12;sklep internetowy;OGR-GRL-ST;153.66;70.0;18.0;odstąpienie bez podania przyczyny
+Z-00752;2026-05-15;sklep internetowy;OGR-DON-50;128.46;44.0;18.0;odstąpienie bez podania przyczyny
+Z-00760;2026-05-15;sklep internetowy;OGR-OSW-SL;80.49;31.0;18.0;odstąpienie bez podania przyczyny
+Z-00768;2026-05-02;sklep internetowy;OGR-KOS-40;527.64;400.0;18.0;pomyłka w zamówieniu
+Z-00776;2026-05-04;sklep internetowy;OGR-WAZ-30;144.72;60.0;18.0;nie spełnia oczekiwań
+Z-00791;2026-05-04;sklep internetowy;OGR-SKR-80;356.1;164.0;18.0;odstąpienie bez podania przyczyny
+Z-00793;2026-05-01;sklep internetowy;OGR-ZRA-01;52.03;20.0;18.0;nie spełnia oczekiwań
+Z-00815;2026-05-03;sklep internetowy;OGR-SKR-80;178.05;82.0;18.0;nie spełnia oczekiwań
+Z-00866;2026-05-15;marketplace;OGR-KOS-40;527.64;400.0;18.0;odstąpienie bez podania przyczyny
+Z-00871;2026-05-04;marketplace;OGR-NOZ-12;209.76;100.0;18.0;pomyłka w zamówieniu
+Z-00876;2026-05-10;marketplace;OGR-SKR-80;534.15;246.0;18.0;pomyłka w zamówieniu
+Z-00885;2026-05-19;marketplace;OGR-GRL-ST;153.66;70.0;18.0;odstąpienie bez podania przyczyny
+Z-00897;2026-05-10;marketplace;OGR-ZRA-01;104.07;40.0;18.0;pomyłka w zamówieniu
+Z-00929;2026-05-16;marketplace;OGR-ZRA-01;52.03;20.0;18.0;nie spełnia oczekiwań
+Z-00932;2026-05-04;marketplace;OGR-SKR-80;178.05;82.0;18.0;odstąpienie bez podania przyczyny
+Z-00938;2026-05-02;marketplace;OGR-WAZ-30;72.36;30.0;18.0;pomyłka w zamówieniu
+Z-01005;2026-05-17;marketplace;OGR-OSW-SL;160.98;62.0;18.0;pomyłka w zamówieniu
