@@ -2,7 +2,7 @@
 
 **Agent rozliczenia kampanii dla polskiej firmy: handel wielokanałowy.** Liczy marżę każdej kampanii po zwrotach, prowizjach, płatnościach, wysyłce i reklamie, zestawia ją z ROAS z panelu reklamowego i wskazuje, co wzmocnić, co ograniczyć i co sprawdzić.
 
-Pakiet branżowy paczki [moja-firma](https://github.com/majchrzycki-com/moja-firma). Procedura w formacie [Agent Skills](https://agentskills.io/specification) (`SKILL.md`) działa w Claude, ChatGPT i Codex, Microsoft 365 Copilot, Gemini oraz OpenClaw.
+Pakiet branżowy paczki [moja-firma](https://github.com/majchrzycki-com/moja-firma). Procedura w formacie [Agent Skills](https://agentskills.io/specification) (`SKILL.md`) działa w Anthropic Claude, OpenAI ChatGPT i OpenAI Codex, Microsoft 365 Copilot, Google Gemini oraz OpenClaw.
 
 ## Czego agent nie zrobi
 
@@ -32,7 +32,7 @@ Rozlicz kampanie z kwietnia 2026 według instrukcji projektu. Licz kodem na zał
 
 ## Instalacja
 
-### Claude Code
+### Anthropic Claude Code
 
 ```text
 /plugin marketplace add majchrzycki-com/moja-firma
@@ -45,14 +45,14 @@ Rozlicz kampanie z kwietnia 2026 według instrukcji projektu. Licz kodem na zał
 node scripts/build.mjs
 ```
 
-Skrypt tworzy `dist/skills/` dla Claude, Codex, OpenClaw i Copilot Cowork oraz `dist/instrukcje/` z tekstem do wklejenia w agencie Microsoft 365 Copilot, Gemie albo projekcie ChatGPT. Szczegóły instalacji w każdym narzędziu: [README rdzenia moja-firma](https://github.com/majchrzycki-com/moja-firma#instalacja).
+Skrypt tworzy `dist/skills/` dla Anthropic Claude, OpenAI Codex, OpenClaw i Microsoft 365 Copilot Cowork oraz `dist/instrukcje/` z tekstem do wklejenia w agencie Microsoft 365 Copilot, Gemie Google Gemini albo projekcie OpenAI ChatGPT. Szczegóły instalacji w każdym narzędziu: [README rdzenia moja-firma](https://github.com/majchrzycki-com/moja-firma#instalacja).
 
 ## Ten sam agent krok po kroku
 
-- [Agent rozliczenia kampanii w Claude](https://majchrzycki.com/blog/agent-kampanii-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii)
+- [Agent rozliczenia kampanii w Anthropic Claude](https://majchrzycki.com/blog/agent-kampanii-w-claude-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii)
 - [Agent rozliczenia kampanii w Microsoft 365 Copilot](https://majchrzycki.com/blog/agent-kampanii-w-microsoft-365-copilot-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii)
-- [Agent rozliczenia kampanii w ChatGPT](https://majchrzycki.com/blog/agent-kampanii-w-chatgpt-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii)
-- [Agent rozliczenia kampanii w Gemini](https://majchrzycki.com/blog/agent-kampanii-w-gemini-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii)
+- [Agent rozliczenia kampanii w OpenAI ChatGPT](https://majchrzycki.com/blog/agent-kampanii-w-chatgpt-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii)
+- [Agent rozliczenia kampanii w Google Gemini](https://majchrzycki.com/blog/agent-kampanii-w-gemini-krok-po-kroku?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii)
 
 Gdzie ten agent mieści się w całej firmie i jakich jeszcze agentów potrzebuje handel wielokanałowy: [darmowy poradnik branżowy](https://majchrzycki.com/transformacja-agenci-ai/handel-wielokanalowy?utm_source=github&utm_medium=referral&utm_campaign=moja-firma&utm_content=rozliczenie-kampanii#pobierz).
 
