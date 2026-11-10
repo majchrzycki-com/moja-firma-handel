@@ -1,6 +1,6 @@
 ---
 name: rozliczenie-kampanii
-description: Rozlicza kampanie sklepu sprzedającego w kilku kanałach (sklep internetowy, marketplace, porównywarka cen): liczy marżę każdej kampanii po zwrotach, prowizjach, płatnościach, wysyłce i reklamie, zestawia ją z ROAS i oznacza kampanie z rekordem przychodu i słabą marżą, na minusie oraz do wzmocnienia. Użyj przy miesięcznym rozliczeniu marketingu, pytaniach o ROAS, opłacalność kampanii, marketplace albo zwroty.
+description: "Rozlicza kampanie sklepu sprzedającego w kilku kanałach (sklep internetowy, marketplace, porównywarka cen): liczy marżę każdej kampanii po zwrotach, prowizjach, płatnościach, wysyłce i reklamie, zestawia ją z ROAS i oznacza kampanie z rekordem przychodu i słabą marżą, na minusie oraz do wzmocnienia. Użyj przy miesięcznym rozliczeniu marketingu, pytaniach o ROAS, opłacalność kampanii, marketplace albo zwroty."
 license: MIT
 metadata:
   autor: Krzysztof Majchrzycki
